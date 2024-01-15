@@ -59,9 +59,9 @@ To Analyze the whole item i am using Python version 3.11.5,Anaconda3 Juypter not
 
 **Database Used**
 
-The database file that i used in this project is "D:\data\Nutrical Dataset.csv"
+The database file that i used in this project is 
 
 **Detail Description**
 
 The Jupyter file that contains all the detail about the project is 
-"C:\Users\ASUS\Downloads\_McDonald's Menu Nutritional Analysis (1).ipynb"
+
