@@ -63,5 +63,5 @@ The database file that i used in this project is
 
 **Detail Description**
 
-The Jupyter file that contains all the detail about the project is 
+The Jupyter file that contains all the detail about the project is _McDonald's Menu Nutritional Analysis.ipynb
 
