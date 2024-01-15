@@ -1,4 +1,4 @@
-**Data Analyst Capstone Project**
+[**Data Analyst Capstone Project**]
 
 Project Title: NutriCal : McDonald's Menu Nutritional Analysis
 
@@ -59,7 +59,7 @@ To Analyze the whole item i am using Python version 3.11.5,Anaconda3 Juypter not
 
 **Database Used**
 
-The database file that i used in this project is 
+The database file that I used in this project is Nutrical Dataset.csv
 
 **Detail Description**
 
