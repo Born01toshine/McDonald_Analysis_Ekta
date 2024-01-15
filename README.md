@@ -1,4 +1,4 @@
-[**Data Analyst Capstone Project**]
+**Data Analyst Capstone Project**
 
 Project Title: NutriCal : McDonald's Menu Nutritional Analysis
 
