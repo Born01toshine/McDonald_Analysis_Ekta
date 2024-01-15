@@ -51,7 +51,9 @@
    * Numerical Variable Analysis
  
 8. Nutrition-Based Insights
-   * Identify menu items with the highest and lowest calorie counts 
+   * Identify menu items with the highest and lowest calorie counts
+     
+9. Comprehensive Overview
 
 ### **Techologies Used**
 
